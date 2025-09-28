@@ -57,7 +57,7 @@
 - Port advanced games to Apple platforms - https://developer.apple.com/videos/play/wwdc2024/10089/?time=127
 - Use Apple's translation layer (command line BS) - https://www.digitaltrends.com/computing/how-to-play-windows-games-on-mac/
 - 32-bit app compatibility with macOS - https://support.apple.com/en-us/103076
-- Reddit users trying to use 32-bit Mac apps - https://www.reddit.com/r/MacOS/comments/100w701 /is_there_a_way_to_make_mac_run_32_bit_apps_anyway/?sort=top
+- Reddit users trying to use 32-bit Mac apps - https://www.reddit.com/r/MacOS/comments/100w701/is_there_a_way_to_make_mac_run_32_bit_apps_anyway/?sort=top
 - Whisky - https://getwhisky.app/
 - CrossOver - https://www.codeweavers.com/crossover
 
